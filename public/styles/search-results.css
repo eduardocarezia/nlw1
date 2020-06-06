@@ -107,6 +107,11 @@ main .card h3 {
 
   margin: 24px 0;
 } 
+h3 {
+  margin-top: 48px;
+  font-weight: normal;
+  font-family: Roboto, sans-serif;
+}
 
 main .card p {
   font-family: Roboto, sans-serif;
